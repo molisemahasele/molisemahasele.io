@@ -31,7 +31,7 @@ const Contact = () => {
     e.preventDefault();
     setLoading(true);
 
-    //template_lw0cozi
+    
     //service_eugr72h
     //A1jy8sHYjFFlTX64j
     emailjs
