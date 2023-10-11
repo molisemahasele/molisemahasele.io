@@ -131,7 +131,7 @@ import {
     {
       title: "AI Applications Developer",
       company_name: "The Plug",
-      icon: tesla,
+      icon: shopify,
       iconBg: "#E6DEDD",
       date: "2022",
       points: [
