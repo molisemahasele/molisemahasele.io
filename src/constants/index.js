@@ -190,7 +190,7 @@ import {
         },
       ],
       image: carrent,
-      source_code_link: "https://github.com/",
+      //source_code_link: "https://github.com/",
     },
     {
       name: "Video Chat",
@@ -211,7 +211,7 @@ import {
         },
       ],
       image: jobit,
-      source_code_link: "https://github.com/",
+      //source_code_link: "https://github.com/",
     },
     {
       name: "The Plug",
@@ -232,7 +232,7 @@ import {
         },
       ],
       image: tripguide,
-      source_code_link: "https://github.com/",
+      //source_code_link: "https://github.com/",
     },
   ];
   
