@@ -129,39 +129,13 @@ import {
       ],
     },
     {
-      title: "AI Applications Developer",
+      title: "Web Developer",
       company_name: "The Plug",
       icon: shopify,
       iconBg: "#E6DEDD",
       date: "2022",
       points: [
         "Developing and maintaiions using React.js and other related technologies.",
-        "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-        "Implementing responsive design and ensuring cross-browser compatibility.",
-        "Participating in code reviews and providing constructive feedback to other developers.",
-      ],
-    },
-    {
-      title: "Mobile Developer",
-      company_name: "LesBeats",
-      icon: shopify,
-      iconBg: "#383E56",
-      date: "2023",
-      points: [
-        "Developing and maintaining web applications using React.js and other related technologies.",
-        "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-        "Implementing responsive design and ensuring cross-browser compatibility.",
-        "Participating in code reviews and providing constructive feedback to other developers.",
-      ],
-    },
-    {
-      title: "Blockchain",
-      company_name: "An-k",
-      icon: meta,
-      iconBg: "#E6DEDD",
-      date: "Jan 2023 - Present",
-      points: [
-        "Developing and maintaining web applications using React.js and other related technologies.",
         "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
         "Implementing responsive design and ensuring cross-browser compatibility.",
         "Participating in code reviews and providing constructive feedback to other developers.",
@@ -176,7 +150,7 @@ import {
       name: "Sara Lee",
       designation: "CFO",
       company: "Acme Co",
-      image: "https://randomuser.me/api/portraits/women/4.jpg",
+      
     },
     {
       testimonial:
@@ -184,7 +158,7 @@ import {
       name: "Chris Brown",
       designation: "COO",
       company: "DEF Corp",
-      image: "https://randomuser.me/api/portraits/men/5.jpg",
+      
     },
     {
       testimonial:
@@ -192,13 +166,13 @@ import {
       name: "Lisa Wang",
       designation: "CTO",
       company: "456 Enterprises",
-      image: "https://randomuser.me/api/portraits/women/6.jpg",
+      
     },
   ];
   
   const projects = [
     {
-      name: "Car Rent",
+      name: "Krypt",
       description:
         "Web-based platform that allows users to search, book, and manage car rentals from various providers, providing a convenient and efficient solution for transportation needs.",
       tags: [
@@ -207,7 +181,7 @@ import {
           color: "blue-text-gradient",
         },
         {
-          name: "mongodb",
+          name: "solidity",
           color: "green-text-gradient",
         },
         {
@@ -219,7 +193,7 @@ import {
       source_code_link: "https://github.com/",
     },
     {
-      name: "Job IT",
+      name: "Video Chat",
       description:
         "Web application that enables users to search for job openings, view estimated salary ranges for positions, and locate available jobs based on their current location.",
       tags: [
@@ -232,7 +206,7 @@ import {
           color: "green-text-gradient",
         },
         {
-          name: "scss",
+          name: "WebRTC",
           color: "pink-text-gradient",
         },
       ],
@@ -240,20 +214,20 @@ import {
       source_code_link: "https://github.com/",
     },
     {
-      name: "Trip Guide",
+      name: "The Plug",
       description:
         "A comprehensive travel booking platform that allows users to book flights, hotels, and rental cars, and offers curated recommendations for popular destinations.",
       tags: [
         {
-          name: "nextjs",
+          name: "Bootstrap 5",
           color: "blue-text-gradient",
         },
         {
-          name: "supabase",
+          name: "Php",
           color: "green-text-gradient",
         },
         {
-          name: "css",
+          name: "Jquery",
           color: "pink-text-gradient",
         },
       ],
