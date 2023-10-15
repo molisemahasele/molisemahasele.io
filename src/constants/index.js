@@ -125,7 +125,7 @@ import {
         "Developing and maintaining web applications using React.js and other related technologies.",
         "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
         "Implementing responsive design and ensuring cross-browser compatibility.",
-        "Participating in code reviews and providing constructive feedback to other developers.",
+        "Developing and maintaining AI applications.",
       ],
     },
     {
@@ -135,8 +135,7 @@ import {
       iconBg: "#E6DEDD",
       date: "2022",
       points: [
-        "Developing and maintaiions using React.js and other related technologies.",
-        "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
+        "Developing and maintaining fullstack websites singlehandedly",
         "Implementing responsive design and ensuring cross-browser compatibility.",
         "Participating in code reviews and providing constructive feedback to other developers.",
       ],
@@ -174,7 +173,7 @@ import {
     {
       name: "Krypt",
       description:
-        "Web-based platform that allows users to search, book, and manage car rentals from various providers, providing a convenient and efficient solution for transportation needs.",
+        "Web-based platform that allows users to send crypto(ethereum) anywhere in in the world.",
       tags: [
         {
           name: "react",
@@ -195,7 +194,7 @@ import {
     {
       name: "Video Chat",
       description:
-        "Web application that enables users to search for job openings, view estimated salary ranges for positions, and locate available jobs based on their current location.",
+        "Web application that enables users to chat instantly using video.",
       tags: [
         {
           name: "react",
@@ -216,7 +215,7 @@ import {
     {
       name: "The Plug",
       description:
-        "A comprehensive travel booking platform that allows users to book flights, hotels, and rental cars, and offers curated recommendations for popular destinations.",
+        "A comprehensive e-commerce platform that allows users to buy goods online.",
       tags: [
         {
           name: "Bootstrap 5",
