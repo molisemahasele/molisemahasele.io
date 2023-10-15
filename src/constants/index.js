@@ -213,16 +213,16 @@ import {
       //source_code_link: "https://github.com/",
     },
     {
-      name: "The Plug",
+      name: "Instagram clone",
       description:
-        "A comprehensive e-commerce platform that allows users to buy goods online.",
+        "Fullstack clone of instagram",
       tags: [
         {
           name: "Bootstrap 5",
           color: "blue-text-gradient",
         },
         {
-          name: "Php",
+          name: "Laravel",
           color: "green-text-gradient",
         },
         {
