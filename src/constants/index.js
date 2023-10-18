@@ -189,7 +189,7 @@ import {
         },
       ],
       image: carrent,
-      //source_code_link: "https://github.com/",
+      source_code_link: "https://github.com/molisemahasele/krypt",
     },
     {
       name: "Video Chat",
@@ -210,7 +210,7 @@ import {
         },
       ],
       image: jobit,
-      //source_code_link: "https://github.com/",
+      source_code_link: "https://github.com/molisemahasele/webrtc_chat",
     },
     {
       name: "Instagram clone",
@@ -231,7 +231,7 @@ import {
         },
       ],
       image: tripguide,
-      //source_code_link: "https://github.com/",
+      source_code_link: "https://github.com/molisemahasele/instagram_clone",
     },
   ];
   
