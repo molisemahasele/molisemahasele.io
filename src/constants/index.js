@@ -192,6 +192,48 @@ import {
       source_code_link: "https://github.com/molisemahasele/krypt",
     },
     {
+      name: "The Plug",
+      description:
+        "Web-based that allows people to buy online using an African based payment gateway called M-Pesa.",
+      tags: [
+        {
+          name: "PHP",
+          color: "blue-text-gradient",
+        },
+        {
+          name: "MySQL",
+          color: "green-text-gradient",
+        },
+        {
+          name: "tailwind",
+          color: "pink-text-gradient",
+        },
+      ],
+      image: carrent,
+      source_code_link: "https://livetheplug.com",
+    },
+    {
+      name: "Uloan",
+      description:
+        "Web-based platform that allows money lenders to manage borrowers and track borrower's credit's credit score",
+      tags: [
+        {
+          name: "PHP",
+          color: "blue-text-gradient",
+        },
+        {
+          name: "MySQL",
+          color: "green-text-gradient",
+        },
+        {
+          name: "Bootstrap 5",
+          color: "pink-text-gradient",
+        },
+      ],
+      image: carrent,
+      source_code_link: "https://uloan.pro",
+    },
+    {
       name: "Video Chat",
       description:
         "Web application that enables users to chat instantly using video.",
