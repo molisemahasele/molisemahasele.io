@@ -64,5 +64,5 @@ export {
   tripguide,
   books,
   theplug,
-  theplug,
+  uloan,
 };
