@@ -209,7 +209,7 @@ import {
           color: "pink-text-gradient",
         },
       ],
-      image: carrent,
+      image: theplug,
       source_code_link: "https://livetheplug.com",
     },
     {
@@ -230,8 +230,29 @@ import {
           color: "pink-text-gradient",
         },
       ],
-      image: carrent,
+      image: uloan,
       source_code_link: "https://uloan.pro",
+    },
+    {
+      name: "Books4u",
+      description:
+        "Web-based platform that allows entreprenuers to manage their records such expenses, incomes, liabilities and assets and also generate income statements and balance sheets at the click of a button. They can also manage use data analytics and KPIs to track perfomance.",
+      tags: [
+        {
+          name: "Flask",
+          color: "blue-text-gradient",
+        },
+        {
+          name: "SQL-Alchemy",
+          color: "green-text-gradient",
+        },
+        {
+          name: "Bootstrap 5",
+          color: "pink-text-gradient",
+        },
+      ],
+      image: books,
+      source_code_link: "https://books4u.pro",
     },
     {
       name: "Video Chat",
