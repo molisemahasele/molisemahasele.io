@@ -28,6 +28,9 @@ import tesla from "./company/tesla.png";
 
 import carrent from "./carrent.png";
 import jobit from "./jobit.png";
+import theplug from "./theplug.png";
+import uloan from "./uloan.png";
+import books from "./books4u.png";
 import tripguide from "./tripguide.png";
 
 export {
@@ -59,4 +62,7 @@ export {
   carrent,
   jobit,
   tripguide,
+  books,
+  theplug,
+  theplug,
 };
